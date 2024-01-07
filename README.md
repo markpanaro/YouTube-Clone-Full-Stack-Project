@@ -2,7 +2,7 @@
 
 ## YouTube Link: https://youtu.be/GEGGt9V8fbU?si=Zel2lTD4azjEtAYl
 
-![Alt text](/YouTube-Clone-Full-Stack-Project/media/image.png?raw=true "YouTube Clone")
+![Alt text](/media/image.png?raw=true "YouTube Clone")
 
 ## Description
 This project is a clone of the YouTube site that supports watching videos, logging in with Google and uploading videos. It was built using TypeScript, Next.js, Express.js, Docker, FFmpeg, Firebase Firestore and multiple Google Cloud tools utilizing the Neetcode Full Stack Development course. A Selenium WebDriver was also created to test the functionality of the web app. The intention of doing this work was to get a better understanding of the tools and thought processes behind building a full stack application.
